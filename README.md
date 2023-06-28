@@ -1,4 +1,4 @@
-# Edge-detection--Computer-Vision-
+# Edge Detection of Image 
 This repository provides an implementation of edge detection algorithms using the Canny and Sobel methods. 
 The Canny edge detection algorithm is a popular technique for detecting edges in digital images, 
 while the Sobel method is a simple gradient-based approach for edge detection.
