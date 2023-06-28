@@ -17,8 +17,8 @@ These images will contain the detected edges using the Canny and Sobel methods, 
 Python 3.x, Jupyter notebook
 
 # Acknowledgments
--The Canny edge detection algorithm was introduced by John F. Canny in his paper "A Computational Approach to Edge Detection" (1986).
--The Sobel method was first described by Irwin Sobel and Gary Feldman in their paper "A 3x3 Isotropic Gradient Operator for Image Processing" (1968).
+The Canny edge detection algorithm was introduced by John F. Canny in his paper "A Computational Approach to Edge Detection" (1986).
+The Sobel method was first described by Irwin Sobel and Gary Feldman in their paper "A 3x3 Isotropic Gradient Operator for Image Processing" (1968).
 
 # License
 This code is provided under the MIT License, allowing you to use, modify, and distribute it freely.
